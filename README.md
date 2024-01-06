@@ -14,3 +14,14 @@
 
    ```bash
    docker pull talbenxu/iea:release
+
+2. **Run the Image:**
+   ```bash
+   docker run -it talbenxu/iea:release /bin/bash
+   
+3. **Go Main Directory:**
+   ```bash
+   cd $IEA_HOME
+
+# Usage
+
