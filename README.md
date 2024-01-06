@@ -23,5 +23,4 @@
    ```bash
    cd $IEA_HOME
 
-# Usage
-
+# Usage [Link](https://github.com/TalbenXu/IEA/blob/main/Usage.pdf)
